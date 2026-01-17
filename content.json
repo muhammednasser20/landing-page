@@ -1,0 +1,307 @@
+{
+    "meta": {
+        "title_ar": "Beon-IT | حلول SAP & Oracle ERP في السعودية والخليج",
+        "title_en": "Beon-IT | SAP & Oracle ERP Solutions for Saudi Arabia & Gulf",
+        "description_ar": "شريكك المعتمد لأنظمة SAP Business One و Oracle NetSuite. حلول ERP متكاملة للشركات المتوسطة والكبيرة.",
+        "description_en": "Your certified partner for SAP Business One & Oracle NetSuite. Integrated ERP solutions for mid-size and enterprise businesses."
+    },
+    "hero": {
+        "badge_ar": "شريك SAP & Oracle المعتمد في المملكة",
+        "badge_en": "Certified SAP & Oracle Partner in KSA",
+        "title_ar": "أدِر عملياتك بكفاءة عالمية.. وحلول سعودية مبتكرة.",
+        "title_en": "Scalable ERP Solutions for the Gulf's Future Leaders",
+        "title_alt_ar": "شريكك المعتمد لأنظمة SAP و Oracle في المملكة والخليج.",
+        "subtitle_ar": "نساعد الشركات المتوسطة والكبيرة على التحول الرقمي الكامل من خلال أنظمة ERP متكاملة تضمن لك التحكم المطلق في بياناتك وأرباحك.",
+        "subtitle_en": "Empower your business with SAP Business One & Oracle NetSuite, tailored for the Saudi market's unique regulations.",
+        "cta_primary_ar": "احجز استشارة مجانية",
+        "cta_primary_en": "Book Free Consultation",
+        "cta_secondary_ar": "اطلب Demo مخصص",
+        "cta_secondary_en": "Request Custom Demo"
+    },
+    "stats": [
+        {
+            "value": "+150",
+            "label_ar": "مشروع ناجح",
+            "label_en": "Successful Projects"
+        },
+        {
+            "value": "+12",
+            "label_ar": "سنة خبرة",
+            "label_en": "Years Experience"
+        },
+        {
+            "value": "24/7",
+            "label_ar": "دعم فني",
+            "label_en": "Technical Support"
+        }
+    ],
+    "form": {
+        "title_ar": "احجز استشارتك المجانية الآن",
+        "title_en": "Book Your Free Consultation",
+        "subtitle_ar": "خبراؤنا جاهزون لمساعدتك",
+        "subtitle_en": "Our experts are ready to help",
+        "fields": [
+            {
+                "name": "name",
+                "placeholder_ar": "الاسم الكامل",
+                "placeholder_en": "Full Name"
+            },
+            {
+                "name": "company",
+                "placeholder_ar": "اسم الشركة",
+                "placeholder_en": "Company Name"
+            },
+            {
+                "name": "phone",
+                "placeholder_ar": "رقم الجوال",
+                "placeholder_en": "Phone Number"
+            }
+        ],
+        "submit_ar": "احجز الآن",
+        "submit_en": "Book Now",
+        "note_ar": "🔒 بياناتك آمنة ولن نشاركها مع أي طرف ثالث",
+        "note_en": "🔒 Your data is secure and never shared"
+    },
+    "trust_bar": {
+        "title_ar": "شركاء النجاح والاعتمادات",
+        "title_en": "Our Partners & Certifications",
+        "partners": [
+            {
+                "icon": "🏆",
+                "name": "SAP Gold Partner"
+            },
+            {
+                "icon": "☁️",
+                "name": "Oracle NetSuite"
+            },
+            {
+                "icon": "✅",
+                "name": "ZATCA Approved"
+            },
+            {
+                "icon": "🏛️",
+                "name": "Monsha'at Partner"
+            }
+        ]
+    },
+    "pain_points": {
+        "tag_ar": "التحديات",
+        "tag_en": "Challenges",
+        "title_ar": "هل تواجه هذه التحديات في شركتك؟",
+        "title_en": "Are You Facing These Challenges?",
+        "subtitle_ar": "معظم الشركات تعاني من نفس المشاكل قبل تطبيق نظام ERP متكامل",
+        "subtitle_en": "Most companies face the same problems before implementing an integrated ERP system",
+        "items": [
+            {
+                "icon": "📊",
+                "title_ar": "تشتت البيانات",
+                "title_en": "Data Silos",
+                "desc_ar": "صعوبة الربط بين الأقسام المختلفة وتكرار إدخال البيانات يدوياً.",
+                "desc_en": "Difficulty linking departments and manual data entry duplication."
+            },
+            {
+                "icon": "📈",
+                "title_ar": "تقارير غير دقيقة",
+                "title_en": "Inaccurate Reports",
+                "desc_ar": "استغراق وقت طويل لاستخراج تقارير مالية أو تشغيلية دقيقة.",
+                "desc_en": "Time-consuming process to generate accurate financial or operational reports."
+            },
+            {
+                "icon": "📜",
+                "title_ar": "الالتزام الضريبي",
+                "title_en": "Tax Compliance",
+                "desc_ar": "تحديات التوافق مع متطلبات هيئة الزكاة والضريبة والجمارك.",
+                "desc_en": "Challenges in complying with ZATCA e-invoicing requirements."
+            },
+            {
+                "icon": "💸",
+                "title_ar": "هدر الموارد",
+                "title_en": "Resource Waste",
+                "desc_ar": "ارتفاع التكاليف التشغيلية بسبب عدم كفاءة العمليات.",
+                "desc_en": "High operational costs due to process inefficiencies."
+            }
+        ]
+    },
+    "solution": {
+        "tag_ar": "الحل",
+        "tag_en": "Solution",
+        "title_ar": "نظام ERP واحد يربط كل شيء",
+        "title_en": "One ERP System That Connects Everything",
+        "description_ar": "مع Beon-IT، نقدم لك حلولاً متكاملة من SAP Business One و Oracle NetSuite تربط جميع أقسام شركتك في منصة واحدة ذكية.",
+        "description_en": "With Beon-IT, we provide integrated SAP Business One & Oracle NetSuite solutions that connect all your departments in one smart platform.",
+        "benefits": [
+            {
+                "ar": "إدارة مالية ومحاسبية متكاملة",
+                "en": "Integrated Financial & Accounting Management"
+            },
+            {
+                "ar": "إدارة المخزون وسلسلة التوريد",
+                "en": "Inventory & Supply Chain Management"
+            },
+            {
+                "ar": "إدارة علاقات العملاء (CRM)",
+                "en": "Customer Relationship Management (CRM)"
+            },
+            {
+                "ar": "تقارير وتحليلات فورية",
+                "en": "Real-time Reports & Analytics"
+            },
+            {
+                "ar": "توافق كامل مع ZATCA",
+                "en": "Full ZATCA Compliance"
+            },
+            {
+                "ar": "تكامل مع أنظمتك الحالية",
+                "en": "Integration with Existing Systems"
+            }
+        ],
+        "cta_ar": "اكتشف الحل المناسب لك",
+        "cta_en": "Discover the Right Solution"
+    },
+    "industries": {
+        "tag_ar": "القطاعات",
+        "tag_en": "Industries",
+        "title_ar": "حلول مخصصة لكل قطاع",
+        "title_en": "Tailored Solutions for Every Industry",
+        "items": [
+            {
+                "icon": "🏭",
+                "name_ar": "التصنيع",
+                "name_en": "Manufacturing"
+            },
+            {
+                "icon": "🏗️",
+                "name_ar": "المقاولات",
+                "name_en": "Construction"
+            },
+            {
+                "icon": "🛒",
+                "name_ar": "التجزئة",
+                "name_en": "Retail"
+            },
+            {
+                "icon": "🚚",
+                "name_ar": "اللوجستيات",
+                "name_en": "Logistics"
+            },
+            {
+                "icon": "🏥",
+                "name_ar": "الرعاية الصحية",
+                "name_en": "Healthcare"
+            },
+            {
+                "icon": "💼",
+                "name_ar": "الخدمات المهنية",
+                "name_en": "Professional Services"
+            }
+        ]
+    },
+    "why_us": {
+        "tag_ar": "لماذا نحن",
+        "tag_en": "Why Us",
+        "title_ar": "لماذا يختار العملاء Beon-IT؟",
+        "title_en": "Why Clients Choose Beon-IT?",
+        "items": [
+            {
+                "number": "01",
+                "title_ar": "خبرة محلية عميقة",
+                "title_en": "Deep Local Expertise",
+                "desc_ar": "نفهم السوق السعودي والخليجي ومتطلباته التنظيمية والضريبية.",
+                "desc_en": "We understand the Saudi and Gulf market and its regulatory requirements."
+            },
+            {
+                "number": "02",
+                "title_ar": "فريق معتمد",
+                "title_en": "Certified Team",
+                "desc_ar": "مستشارون حاصلون على شهادات SAP و Oracle الرسمية.",
+                "desc_en": "Consultants with official SAP and Oracle certifications."
+            },
+            {
+                "number": "03",
+                "title_ar": "دعم فني 24/7",
+                "title_en": "24/7 Support",
+                "desc_ar": "فريق دعم متواصل باللغتين العربية والإنجليزية.",
+                "desc_en": "Continuous support team in Arabic and English."
+            },
+            {
+                "number": "04",
+                "title_ar": "تخصيص كامل",
+                "title_en": "Full Customization",
+                "desc_ar": "حلول مصممة خصيصاً لتناسب طبيعة عملك وأهدافك.",
+                "desc_en": "Solutions designed specifically to fit your business nature and goals."
+            }
+        ]
+    },
+    "testimonial": {
+        "text_ar": "بعد تطبيق SAP Business One مع Beon-IT، أصبحت لدينا رؤية كاملة لجميع عمليات الشركة. التقارير الفورية ساعدتنا على اتخاذ قرارات أسرع وأدق.",
+        "text_en": "After implementing SAP Business One with Beon-IT, we gained complete visibility into all company operations. Real-time reports helped us make faster and more accurate decisions.",
+        "author_name_ar": "محمد الأحمد",
+        "author_name_en": "Mohammed Al-Ahmad",
+        "author_role_ar": "المدير المالي - مجموعة الوفاء للتجارة",
+        "author_role_en": "CFO - Al-Wafa Trading Group"
+    },
+    "faq": {
+        "tag_ar": "الأسئلة الشائعة",
+        "tag_en": "FAQ",
+        "title_ar": "إجابات على أسئلتك",
+        "title_en": "Answers to Your Questions",
+        "items": [
+            {
+                "q_ar": "ما هو الوقت المتوقع لتطبيق نظام SAP Business One؟",
+                "q_en": "What is the expected timeline for SAP Business One implementation?",
+                "a_ar": "تعتمد المدة على حجم الشركة ومتطلباتها، ولكن غالباً ما تتراوح بين 3 إلى 6 أشهر.",
+                "a_en": "The duration depends on company size and requirements, typically ranging from 3 to 6 months."
+            },
+            {
+                "q_ar": "هل الحلول متوافقة مع متطلبات ZATCA للفوترة الإلكترونية؟",
+                "q_en": "Are solutions compliant with ZATCA e-invoicing requirements?",
+                "a_ar": "نعم، جميع حلولنا معتمدة ومتوافقة بالكامل مع المرحلة الأولى والثانية من الفوترة الإلكترونية.",
+                "a_en": "Yes, all our solutions are certified and fully compliant with Phase 1 and 2 of e-invoicing."
+            },
+            {
+                "q_ar": "هل توفرون تدريباً للموظفين على استخدام النظام؟",
+                "q_en": "Do you provide employee training on system usage?",
+                "a_ar": "نعم، نوفر برامج تدريب شاملة لجميع المستخدمين مع دعم مستمر بعد التطبيق.",
+                "a_en": "Yes, we provide comprehensive training programs for all users with ongoing post-implementation support."
+            },
+            {
+                "q_ar": "ما الفرق بين SAP Business One و Oracle NetSuite؟",
+                "q_en": "What is the difference between SAP Business One and Oracle NetSuite?",
+                "a_ar": "كلاهما منصات ERP قوية. SAP مثالي للشركات التي تحتاج تخصيصاً عميقاً، بينما NetSuite يتميز بالمرونة السحابية.",
+                "a_en": "Both are powerful ERP platforms. SAP is ideal for deep customization, while NetSuite excels in cloud flexibility."
+            },
+            {
+                "q_ar": "هل يوجد دعم فني محلي في المملكة؟",
+                "q_en": "Is there local technical support in the Kingdom?",
+                "a_ar": "نعم، لدينا فريق دعم فني محلي متواجد في الرياض وجدة، متاح 24/7 باللغتين.",
+                "a_en": "Yes, we have local support teams in Riyadh and Jeddah, available 24/7 in both languages."
+            },
+            {
+                "q_ar": "كيف يتم احتساب تكلفة المشروع؟",
+                "q_en": "How is project cost calculated?",
+                "a_ar": "نقدم عروض أسعار مخصصة بناءً على حجم الشركة، عدد المستخدمين، والوحدات المطلوبة.",
+                "a_en": "We provide customized quotes based on company size, number of users, and required modules."
+            }
+        ]
+    },
+    "final_cta": {
+        "title_ar": "جاهز للتحول الرقمي؟",
+        "title_en": "Ready for Digital Transformation?",
+        "description_ar": "احجز استشارتك المجانية اليوم واكتشف كيف يمكن لـ Beon-IT مساعدتك في تحقيق أهدافك.",
+        "description_en": "Book your free consultation today and discover how Beon-IT can help you achieve your goals.",
+        "cta_primary_ar": "احجز استشارة مجانية",
+        "cta_primary_en": "Book Free Consultation",
+        "cta_secondary_ar": "اتصل الآن",
+        "cta_secondary_en": "Call Now"
+    },
+    "footer": {
+        "description_ar": "شريكك الموثوق للتحول الرقمي وحلول ERP المتكاملة في السعودية والخليج.",
+        "description_en": "Your trusted partner for digital transformation and integrated ERP solutions in Saudi Arabia and the Gulf.",
+        "links_title_ar": "روابط سريعة",
+        "links_title_en": "Quick Links",
+        "contact_title_ar": "تواصل معنا",
+        "contact_title_en": "Contact Us",
+        "copyright_ar": "جميع الحقوق محفوظة.",
+        "copyright_en": "All Rights Reserved."
+    }
+}
